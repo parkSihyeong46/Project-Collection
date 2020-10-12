@@ -1,0 +1,3 @@
+PLAY GAME
+Game information
+ranking
